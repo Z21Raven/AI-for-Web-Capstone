@@ -1,0 +1,10 @@
+@import "./base.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+@layer components {
+    .text-area-component {
+        @apply shadow-lg shadow-slate-500/50 border-slate-200 border-2 "focus:border-slate-600" "focus:outline-none" rounded;
+    }
+} */

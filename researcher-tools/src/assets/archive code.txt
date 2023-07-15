@@ -1,0 +1,11 @@
+    // try {
+    //   // the argument is the computed property which is consist of question and context as inputs.
+    //   let myrequest = axios.post("http://localhost:5043/qna", qnaInputs.value);
+    //   let requestAnswer = await myrequest;
+    //   modelAnswer.value = requestAnswer.data;
+    //   console.log(requestAnswer.status);
+    //   console.log(requestAnswer.data);
+    // } catch (error) {
+    //   console.error(error);
+    //   throw error;
+    // }

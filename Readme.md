@@ -4,6 +4,9 @@ This project design as a graduation project from the "AI for Web" bootcamp.
 
 
 ### Run
+
+Assume you have already installed node.js
+
 1- go to the "Backend-ai" directory and execute in the cmd this command: 
 
 ```sh
@@ -11,6 +14,19 @@ npm start
 ```
 
 2- go to the "researcher-tools" directory and execute in the cmd this command:
+
+```sh
+npx vite --port=4000
+```
+
+If not operates, try these commands:
+
+```sh
+npm install vite
+npm install npx
+```
+
+Then
 
 ```sh
 npx vite --port=4000
